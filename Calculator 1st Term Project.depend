@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1574888688 source:d:\my projects\calculator 1st term project\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1576609621 source:e:\cood bloks\calculator 1st term project\main.cpp
+	<iostream>
+	<cmath>
+
+1576654303 source:d:\my projects\project final edition\calculator 1st term project\main.cpp
+	<iostream>
+	<cmath>
+
+1582283707 source:e:\cood bloks\project final edition\calculator 1st term project (final)\main.cpp
+	<iostream>
+	<cmath>
+
